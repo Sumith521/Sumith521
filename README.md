@@ -8,7 +8,7 @@ I'm a Computer Science Engineering student passionate about programming, problem
 - 💡 Interested in software development and web development
 - 🛠️ Working on improving my coding and problem-solving skills
 - 🎯 Goal: Secure a software development internship and gain real-world experience
-- 📫 GitHub: "@YOUR_USERNAME" (https://github.com/YOUR_USERNAME)
+- 📫 GitHub: "@YOUR_Sumith521" (https://github.com/YOUR_Sumith521)
 
 ---
 
